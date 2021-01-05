@@ -1,0 +1,8 @@
+{
+    "api": {
+        "listen": 3820,
+        "logs": {
+            "prefix": "(heimsnet-api)"
+        }
+    }
+}
